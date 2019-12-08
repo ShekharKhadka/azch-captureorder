@@ -19,6 +19,7 @@ var teamName = os.Getenv("TEAMNAME")
 // Application Insights telemetry clients
 //var challengeTelemetryClient appinsights.TelemetryClient
 //var customTelemetryClient appinsights.TelemetryClient
+//var customTelemetryClient appinsights.TelemetryClient
 
 // Operations about object
 type OrderController struct {
